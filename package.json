@@ -18,8 +18,11 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node ./node_modules/bin/http-server ./public"
+    "start": "node ./node_modules/http-server/bin/http-server ./public"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": "7.x"
+  }
 }
