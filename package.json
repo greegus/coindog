@@ -1,0 +1,25 @@
+{
+  "name": "coindog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "corser": "^2.0.1",
+    "ecstatic": "^2.2.1",
+    "http-proxy": "^1.16.2",
+    "http-server": "^0.10.0",
+    "moment": "^2.18.1",
+    "node-fetch": "^1.7.1",
+    "opener": "^1.4.3",
+    "optimist": "^0.6.1",
+    "portfinder": "^1.0.13",
+    "union": "^0.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server ./public"
+  },
+  "author": "",
+  "license": "ISC"
+}
