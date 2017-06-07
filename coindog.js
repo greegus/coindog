@@ -2,7 +2,9 @@ const fs = require('fs')
 const fetch = require('node-fetch');
 const moment = require('moment');
 
-const storeFilePath = './public/store.json'
+const storeFilePath = './public/store.json';
+
+const CHANGE_THRESHOLD = 1.05; // 5%
 
 fetch('https://bittrex.com/api/v1.1/public/getmarketsummaries')
 	.then((response) => {
@@ -47,7 +49,7 @@ fetch('https://bittrex.com/api/v1.1/public/getmarketsummaries')
 
 				console.log(marketRecord.id, change);
 
-				if (change > 1.01) {
+				if (change > CHANGE_THRESHOLD) {
 					addIntruder({
 						market: marketRecord,
 						change: change,
