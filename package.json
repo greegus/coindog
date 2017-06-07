@@ -18,7 +18,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "http-server ./public"
+    "start": "node ./node_modules/bin/http-server ./public"
   },
   "author": "",
   "license": "ISC"
