@@ -10,7 +10,9 @@
 					return b.timestamp.localeCompare(a.timestamp)
 				});
 
-				document.querySelector('pre').innerText = JSON.stringify(store.intruders, null , "\t");
+				let output = store.lastUpdate + "\n\n" + JSON.stringify(store.intruders, null , "\t");
+
+				document.querySelector('pre').innerText = output;
 			})
 	</script>
 </head>

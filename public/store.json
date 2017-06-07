@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2017-06-07T17:25:30+02:00",
+	"lastUpdate": "2017-06-07T17:29:12+02:00",
 	"markets": {
 		"BITCNY-BTC": {
 			"id": "BITCNY-BTC",
@@ -7,7 +7,7 @@
 		},
 		"BTC-2GIVE": {
 			"id": "BTC-2GIVE",
-			"last": 0.00000204
+			"last": 0.00000211
 		},
 		"BTC-8BIT": {
 			"id": "BTC-8BIT",
@@ -15,7 +15,7 @@
 		},
 		"BTC-ABY": {
 			"id": "BTC-ABY",
-			"last": 0.00000419
+			"last": 0.0000041
 		},
 		"BTC-AEON": {
 			"id": "BTC-AEON",
@@ -27,7 +27,7 @@
 		},
 		"BTC-AMP": {
 			"id": "BTC-AMP",
-			"last": 0.00016797
+			"last": 0.00016632
 		},
 		"BTC-ANS": {
 			"id": "BTC-ANS",
@@ -35,7 +35,7 @@
 		},
 		"BTC-ANT": {
 			"id": "BTC-ANT",
-			"last": 0.00098301
+			"last": 0.00099
 		},
 		"BTC-APX": {
 			"id": "BTC-APX",
@@ -43,11 +43,11 @@
 		},
 		"BTC-ARDR": {
 			"id": "BTC-ARDR",
-			"last": 0.0000552
+			"last": 0.00005492
 		},
 		"BTC-ARK": {
 			"id": "BTC-ARK",
-			"last": 0.000383
+			"last": 0.00037508
 		},
 		"BTC-AUR": {
 			"id": "BTC-AUR",
@@ -55,11 +55,11 @@
 		},
 		"BTC-BAT": {
 			"id": "BTC-BAT",
-			"last": 0.00009522
+			"last": 0.00009605
 		},
 		"BTC-BAY": {
 			"id": "BTC-BAY",
-			"last": 0.00001218
+			"last": 0.00001214
 		},
 		"BTC-BCY": {
 			"id": "BTC-BCY",
@@ -71,19 +71,19 @@
 		},
 		"BTC-BLITZ": {
 			"id": "BTC-BLITZ",
-			"last": 0.00105089
+			"last": 0.0010509
 		},
 		"BTC-BLK": {
 			"id": "BTC-BLK",
-			"last": 0.00009525
+			"last": 0.00009535
 		},
 		"BTC-BLOCK": {
 			"id": "BTC-BLOCK",
-			"last": 0.00260202
+			"last": 0.00260001
 		},
 		"BTC-BRK": {
 			"id": "BTC-BRK",
-			"last": 0.00007554
+			"last": 0.00007882
 		},
 		"BTC-BRX": {
 			"id": "BTC-BRX",
@@ -95,7 +95,7 @@
 		},
 		"BTC-BTA": {
 			"id": "BTC-BTA",
-			"last": 0.0003455
+			"last": 0.000315
 		},
 		"BTC-BTCD": {
 			"id": "BTC-BTCD",
@@ -103,11 +103,11 @@
 		},
 		"BTC-BTS": {
 			"id": "BTC-BTS",
-			"last": 0.0000398
+			"last": 0.00004
 		},
 		"BTC-BURST": {
 			"id": "BTC-BURST",
-			"last": 0.00000634
+			"last": 0.00000635
 		},
 		"BTC-BYC": {
 			"id": "BTC-BYC",
@@ -123,7 +123,7 @@
 		},
 		"BTC-CLOAK": {
 			"id": "BTC-CLOAK",
-			"last": 0.00097329
+			"last": 0.00096943
 		},
 		"BTC-CLUB": {
 			"id": "BTC-CLUB",
@@ -131,7 +131,7 @@
 		},
 		"BTC-COVAL": {
 			"id": "BTC-COVAL",
-			"last": 0.00000597
+			"last": 0.000006
 		},
 		"BTC-CPC": {
 			"id": "BTC-CPC",
@@ -139,7 +139,7 @@
 		},
 		"BTC-CRW": {
 			"id": "BTC-CRW",
-			"last": 0.00031215
+			"last": 0.0003108
 		},
 		"BTC-CURE": {
 			"id": "BTC-CURE",
@@ -147,7 +147,7 @@
 		},
 		"BTC-DAR": {
 			"id": "BTC-DAR",
-			"last": 0.00021915
+			"last": 0.0002105
 		},
 		"BTC-DASH": {
 			"id": "BTC-DASH",
@@ -155,7 +155,7 @@
 		},
 		"BTC-DCR": {
 			"id": "BTC-DCR",
-			"last": 0.01300127
+			"last": 0.01289415
 		},
 		"BTC-DGB": {
 			"id": "BTC-DGB",
@@ -195,7 +195,7 @@
 		},
 		"BTC-EDG": {
 			"id": "BTC-EDG",
-			"last": 0.00012268
+			"last": 0.00012013
 		},
 		"BTC-EFL": {
 			"id": "BTC-EFL",
@@ -211,7 +211,7 @@
 		},
 		"BTC-EMC2": {
 			"id": "BTC-EMC2",
-			"last": 0.0000201
+			"last": 0.00002027
 		},
 		"BTC-ENRG": {
 			"id": "BTC-ENRG",
@@ -223,19 +223,19 @@
 		},
 		"BTC-ETC": {
 			"id": "BTC-ETC",
-			"last": 0.00645029
+			"last": 0.00648364
 		},
 		"BTC-ETH": {
 			"id": "BTC-ETH",
-			"last": 0.093
+			"last": 0.0937408
 		},
 		"BTC-EXCL": {
 			"id": "BTC-EXCL",
-			"last": 0.00010719
+			"last": 0.0001107
 		},
 		"BTC-EXP": {
 			"id": "BTC-EXP",
-			"last": 0.00133434
+			"last": 0.0013274
 		},
 		"BTC-FAIR": {
 			"id": "BTC-FAIR",
@@ -243,7 +243,7 @@
 		},
 		"BTC-FCT": {
 			"id": "BTC-FCT",
-			"last": 0.01096526
+			"last": 0.01077186
 		},
 		"BTC-FLDC": {
 			"id": "BTC-FLDC",
@@ -255,7 +255,7 @@
 		},
 		"BTC-FTC": {
 			"id": "BTC-FTC",
-			"last": 0.00002152
+			"last": 0.00002165
 		},
 		"BTC-GAM": {
 			"id": "BTC-GAM",
@@ -263,7 +263,7 @@
 		},
 		"BTC-GAME": {
 			"id": "BTC-GAME",
-			"last": 0.00176498
+			"last": 0.00176502
 		},
 		"BTC-GBG": {
 			"id": "BTC-GBG",
@@ -291,19 +291,19 @@
 		},
 		"BTC-GNT": {
 			"id": "BTC-GNT",
-			"last": 0.00020141
+			"last": 0.00019999
 		},
 		"BTC-GOLOS": {
 			"id": "BTC-GOLOS",
-			"last": 0.00005757
+			"last": 0.00005758
 		},
 		"BTC-GRC": {
 			"id": "BTC-GRC",
-			"last": 0.00002108
+			"last": 0.0000215
 		},
 		"BTC-GRS": {
 			"id": "BTC-GRS",
-			"last": 0.00002783
+			"last": 0.0000273
 		},
 		"BTC-GUP": {
 			"id": "BTC-GUP",
@@ -315,11 +315,11 @@
 		},
 		"BTC-HMQ": {
 			"id": "BTC-HMQ",
-			"last": 0.00006756
+			"last": 0.0000675
 		},
 		"BTC-INCNT": {
 			"id": "BTC-INCNT",
-			"last": 0.000153
+			"last": 0.00015393
 		},
 		"BTC-INFX": {
 			"id": "BTC-INFX",
@@ -327,7 +327,7 @@
 		},
 		"BTC-IOC": {
 			"id": "BTC-IOC",
-			"last": 0.0006015
+			"last": 0.0006077
 		},
 		"BTC-ION": {
 			"id": "BTC-ION",
@@ -343,7 +343,7 @@
 		},
 		"BTC-KMD": {
 			"id": "BTC-KMD",
-			"last": 0.0004428
+			"last": 0.00044528
 		},
 		"BTC-KORE": {
 			"id": "BTC-KORE",
@@ -351,23 +351,23 @@
 		},
 		"BTC-LBC": {
 			"id": "BTC-LBC",
-			"last": 0.00014994
+			"last": 0.00015035
 		},
 		"BTC-LGD": {
 			"id": "BTC-LGD",
-			"last": 0.00044072
+			"last": 0.0004388
 		},
 		"BTC-LMC": {
 			"id": "BTC-LMC",
-			"last": 0.00000886
+			"last": 0.00000861
 		},
 		"BTC-LSK": {
 			"id": "BTC-LSK",
-			"last": 0.0008715
+			"last": 0.00088588
 		},
 		"BTC-LTC": {
 			"id": "BTC-LTC",
-			"last": 0.01060082
+			"last": 0.010645
 		},
 		"BTC-LUN": {
 			"id": "BTC-LUN",
@@ -379,27 +379,27 @@
 		},
 		"BTC-MEME": {
 			"id": "BTC-MEME",
-			"last": 0.00007193
+			"last": 0.00007081
 		},
 		"BTC-MLN": {
 			"id": "BTC-MLN",
-			"last": 0.03942072
+			"last": 0.03942071
 		},
 		"BTC-MONA": {
 			"id": "BTC-MONA",
-			"last": 0.00012221
+			"last": 0.00012466
 		},
 		"BTC-MUE": {
 			"id": "BTC-MUE",
-			"last": 0.00003654
+			"last": 0.0000371
 		},
 		"BTC-MUSIC": {
 			"id": "BTC-MUSIC",
-			"last": 0.00001332
+			"last": 0.00001329
 		},
 		"BTC-MYR": {
 			"id": "BTC-MYR",
-			"last": 0.0000016
+			"last": 0.00000157
 		},
 		"BTC-NAUT": {
 			"id": "BTC-NAUT",
@@ -407,7 +407,7 @@
 		},
 		"BTC-NAV": {
 			"id": "BTC-NAV",
-			"last": 0.00015943
+			"last": 0.00015919
 		},
 		"BTC-NBT": {
 			"id": "BTC-NBT",
@@ -415,11 +415,11 @@
 		},
 		"BTC-NEOS": {
 			"id": "BTC-NEOS",
-			"last": 0.00107743
+			"last": 0.00106291
 		},
 		"BTC-NLG": {
 			"id": "BTC-NLG",
-			"last": 0.00005285
+			"last": 0.00005283
 		},
 		"BTC-NXC": {
 			"id": "BTC-NXC",
@@ -427,19 +427,19 @@
 		},
 		"BTC-NXS": {
 			"id": "BTC-NXS",
-			"last": 0.00026664
+			"last": 0.00026663
 		},
 		"BTC-NXT": {
 			"id": "BTC-NXT",
-			"last": 0.00003125
+			"last": 0.00003165
 		},
 		"BTC-OK": {
 			"id": "BTC-OK",
-			"last": 0.00002981
+			"last": 0.00002977
 		},
 		"BTC-OMNI": {
 			"id": "BTC-OMNI",
-			"last": 0.01881144
+			"last": 0.01887566
 		},
 		"BTC-PDC": {
 			"id": "BTC-PDC",
@@ -455,7 +455,7 @@
 		},
 		"BTC-PKB": {
 			"id": "BTC-PKB",
-			"last": 0.00025201
+			"last": 0.00024021
 		},
 		"BTC-POT": {
 			"id": "BTC-POT",
@@ -479,27 +479,27 @@
 		},
 		"BTC-RADS": {
 			"id": "BTC-RADS",
-			"last": 0.002165
+			"last": 0.00225999
 		},
 		"BTC-RBY": {
 			"id": "BTC-RBY",
-			"last": 0.00022578
+			"last": 0.00022364
 		},
 		"BTC-RDD": {
 			"id": "BTC-RDD",
-			"last": 0.00000109
+			"last": 0.00000107
 		},
 		"BTC-REP": {
 			"id": "BTC-REP",
-			"last": 0.01349999
+			"last": 0.01335
 		},
 		"BTC-RISE": {
 			"id": "BTC-RISE",
-			"last": 0.00002648
+			"last": 0.00002644
 		},
 		"BTC-RLC": {
 			"id": "BTC-RLC",
-			"last": 0.00042749
+			"last": 0.00043749
 		},
 		"BTC-SBD": {
 			"id": "BTC-SBD",
@@ -507,11 +507,11 @@
 		},
 		"BTC-SC": {
 			"id": "BTC-SC",
-			"last": 0.00000517
+			"last": 0.00000518
 		},
 		"BTC-SEC": {
 			"id": "BTC-SEC",
-			"last": 0.0000019
+			"last": 0.00000192
 		},
 		"BTC-SEQ": {
 			"id": "BTC-SEQ",
@@ -539,7 +539,7 @@
 		},
 		"BTC-SNGLS": {
 			"id": "BTC-SNGLS",
-			"last": 0.00007196
+			"last": 0.000072
 		},
 		"BTC-SNRG": {
 			"id": "BTC-SNRG",
@@ -559,11 +559,11 @@
 		},
 		"BTC-STEEM": {
 			"id": "BTC-STEEM",
-			"last": 0.00083003
+			"last": 0.00083631
 		},
 		"BTC-STRAT": {
 			"id": "BTC-STRAT",
-			"last": 0.00362902
+			"last": 0.00367482
 		},
 		"BTC-SWIFT": {
 			"id": "BTC-SWIFT",
@@ -571,7 +571,7 @@
 		},
 		"BTC-SWT": {
 			"id": "BTC-SWT",
-			"last": 0.00167315
+			"last": 0.00167961
 		},
 		"BTC-SYNX": {
 			"id": "BTC-SYNX",
@@ -579,11 +579,11 @@
 		},
 		"BTC-SYS": {
 			"id": "BTC-SYS",
-			"last": 0.0000739
+			"last": 0.00007443
 		},
 		"BTC-THC": {
 			"id": "BTC-THC",
-			"last": 0.00000241
+			"last": 0.00000243
 		},
 		"BTC-TIME": {
 			"id": "BTC-TIME",
@@ -591,7 +591,7 @@
 		},
 		"BTC-TKN": {
 			"id": "BTC-TKN",
-			"last": 0.0003988
+			"last": 0.00040108
 		},
 		"BTC-TKS": {
 			"id": "BTC-TKS",
@@ -603,11 +603,11 @@
 		},
 		"BTC-TRST": {
 			"id": "BTC-TRST",
-			"last": 0.00017314
+			"last": 0.00017489
 		},
 		"BTC-TRUST": {
 			"id": "BTC-TRUST",
-			"last": 0.00000944
+			"last": 0.00000957
 		},
 		"BTC-TX": {
 			"id": "BTC-TX",
@@ -615,7 +615,7 @@
 		},
 		"BTC-UBQ": {
 			"id": "BTC-UBQ",
-			"last": 0.00073018
+			"last": 0.00074424
 		},
 		"BTC-UNB": {
 			"id": "BTC-UNB",
@@ -627,7 +627,7 @@
 		},
 		"BTC-VIA": {
 			"id": "BTC-VIA",
-			"last": 0.00027482
+			"last": 0.00027971
 		},
 		"BTC-VOX": {
 			"id": "BTC-VOX",
@@ -643,7 +643,7 @@
 		},
 		"BTC-VTC": {
 			"id": "BTC-VTC",
-			"last": 0.00024997
+			"last": 0.0002525
 		},
 		"BTC-VTR": {
 			"id": "BTC-VTR",
@@ -651,7 +651,7 @@
 		},
 		"BTC-WAVES": {
 			"id": "BTC-WAVES",
-			"last": 0.0018579
+			"last": 0.00185999
 		},
 		"BTC-WBB": {
 			"id": "BTC-WBB",
@@ -667,7 +667,7 @@
 		},
 		"BTC-XBB": {
 			"id": "BTC-XBB",
-			"last": 0.0001
+			"last": 0.00009542
 		},
 		"BTC-XCP": {
 			"id": "BTC-XCP",
@@ -675,15 +675,15 @@
 		},
 		"BTC-XDN": {
 			"id": "BTC-XDN",
-			"last": 0.0000022
+			"last": 0.00000216
 		},
 		"BTC-XEM": {
 			"id": "BTC-XEM",
-			"last": 0.00008115
+			"last": 0.00008136
 		},
 		"BTC-XLM": {
 			"id": "BTC-XLM",
-			"last": 0.00001636
+			"last": 0.00001644
 		},
 		"BTC-XMG": {
 			"id": "BTC-XMG",
@@ -691,11 +691,11 @@
 		},
 		"BTC-XMR": {
 			"id": "BTC-XMR",
-			"last": 0.01984527
+			"last": 0.01984835
 		},
 		"BTC-XRP": {
 			"id": "BTC-XRP",
-			"last": 0.00010344
+			"last": 0.00010395
 		},
 		"BTC-XST": {
 			"id": "BTC-XST",
@@ -707,27 +707,27 @@
 		},
 		"BTC-XVG": {
 			"id": "BTC-XVG",
-			"last": 0.000002
+			"last": 0.00000201
 		},
 		"BTC-XWC": {
 			"id": "BTC-XWC",
-			"last": 0.00000349
+			"last": 0.0000035
 		},
 		"BTC-XZC": {
 			"id": "BTC-XZC",
-			"last": 0.00259115
+			"last": 0.00258371
 		},
 		"BTC-ZCL": {
 			"id": "BTC-ZCL",
-			"last": 0.00129512
+			"last": 0.00128992
 		},
 		"BTC-ZEC": {
 			"id": "BTC-ZEC",
-			"last": 0.09909905
+			"last": 0.09910014
 		},
 		"ETH-ANT": {
 			"id": "ETH-ANT",
-			"last": 0.0104872
+			"last": 0.01048615
 		},
 		"ETH-BAT": {
 			"id": "ETH-BAT",
@@ -771,7 +771,7 @@
 		},
 		"ETH-SNGLS": {
 			"id": "ETH-SNGLS",
-			"last": 0.00076283
+			"last": 0.00076922
 		},
 		"ETH-TKN": {
 			"id": "ETH-TKN",
@@ -791,469 +791,20 @@
 		},
 		"USDT-BTC": {
 			"id": "USDT-BTC",
-			"last": 2779.99999998
+			"last": 2725.111
 		},
 		"USDT-ETH": {
 			"id": "USDT-ETH",
-			"last": 257.00000003
+			"last": 254.52500001
 		},
 		"BTC-ZEN": {
 			"id": "BTC-ZEN",
-			"last": 0.0051799
+			"last": 0.00515996
 		},
 		"BTC-1ST": {
 			"id": "BTC-1ST",
 			"last": 0.00039996
 		}
 	},
-	"intruders": [
-		{
-			"market": {
-				"id": "ETH-SNGLS",
-				"last": 0.00076283
-			},
-			"change": 1.024978501558637,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "ETH-GUP",
-				"last": 0.00165091
-			},
-			"change": 1.089781503729619,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "ETH-ANT",
-				"last": 0.0104872
-			},
-			"change": 1.018175745801695,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-ZCL",
-				"last": 0.00129512
-			},
-			"change": 1.0230339031249014,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-XWC",
-				"last": 0.00000349
-			},
-			"change": 1.0145348837209303,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-XRP",
-				"last": 0.00010344
-			},
-			"change": 1.014018233506519,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-XMG",
-				"last": 0.00005388
-			},
-			"change": 1.035755478662053,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-XEM",
-				"last": 0.00008115
-			},
-			"change": 1.0118453865336658,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-VTC",
-				"last": 0.00024997
-			},
-			"change": 1.140894568690096,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-VOX",
-				"last": 0.0000225
-			},
-			"change": 1.016719385449616,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-TKN",
-				"last": 0.0003988
-			},
-			"change": 1.0121827411167512,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-START",
-				"last": 0.00001357
-			},
-			"change": 1.0233785822021118,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-SNRG",
-				"last": 0.0003893
-			},
-			"change": 1.0787818327929724,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-SNGLS",
-				"last": 0.00007196
-			},
-			"change": 1.029617971097439,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-SBD",
-				"last": 0.00075
-			},
-			"change": 1.0234297176698552,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-PPC",
-				"last": 0.00074483
-			},
-			"change": 1.013374149659864,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-PKB",
-				"last": 0.00025201
-			},
-			"change": 1.0369501707608113,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-PIVX",
-				"last": 0.00063
-			},
-			"change": 1.0327868852459017,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-OMNI",
-				"last": 0.01881144
-			},
-			"change": 1.0118529961680547,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-NLG",
-				"last": 0.00005285
-			},
-			"change": 1.0120643431635388,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-NAV",
-				"last": 0.00015943
-			},
-			"change": 1.0121897022411277,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-NAUT",
-				"last": 0.00011115
-			},
-			"change": 1.015068493150685,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-MEME",
-				"last": 0.00007193
-			},
-			"change": 1.0233319106558543,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-LMC",
-				"last": 0.00000886
-			},
-			"change": 1.0172215843857635,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-LBC",
-				"last": 0.00014994
-			},
-			"change": 1.0240404316350225,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-KORE",
-				"last": 0.000176
-			},
-			"change": 1.0217113665389528,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-INFX",
-				"last": 0.00012796
-			},
-			"change": 1.0650020807324176,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-GUP",
-				"last": 0.000145
-			},
-			"change": 1.035344519814352,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-GRC",
-				"last": 0.00002108
-			},
-			"change": 1.0134615384615384,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-GOLOS",
-				"last": 0.00005757
-			},
-			"change": 1.0467272727272727,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-GNO",
-				"last": 0.09559746
-			},
-			"change": 1.0211256863941427,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-GEO",
-				"last": 0.00025002
-			},
-			"change": 1.0186603650586703,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-GAME",
-				"last": 0.00176498
-			},
-			"change": 1.0195772605699298,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-FCT",
-				"last": 0.01096526
-			},
-			"change": 1.0182160238237399,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-EFL",
-				"last": 0.0000214
-			},
-			"change": 1.034816247582205,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-DRACO",
-				"last": 0.00000408
-			},
-			"change": 1.02,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-DASH",
-				"last": 0.05481
-			},
-			"change": 1.0109328673069917,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-DAR",
-				"last": 0.00021915
-			},
-			"change": 1.0193023255813953,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-COVAL",
-				"last": 0.00000597
-			},
-			"change": 1.011864406779661,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-BRK",
-				"last": 0.00007554
-			},
-			"change": 1.0615514333895446,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-BLOCK",
-				"last": 0.00260202
-			},
-			"change": 1.037446672780192,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-BAY",
-				"last": 0.00001218
-			},
-			"change": 1.0628272251308901,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-APX",
-				"last": 0.00260948
-			},
-			"change": 1.0159034193324845,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-ANT",
-				"last": 0.00098301
-			},
-			"change": 1.0202173258746485,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-ANS",
-				"last": 0.00048507
-			},
-			"change": 1.0199116904962153,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-2GIVE",
-				"last": 0.00000204
-			},
-			"change": 1.0149253731343284,
-			"timestamp": "2017-06-07T17:25:30+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-VTC",
-				"last": 0.0002191
-			},
-			"change": 1.040805662438839,
-			"timestamp": "2017-06-07T17:05:35+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-MLN",
-				"last": 0.03989997
-			},
-			"change": 1.0191591853770214,
-			"timestamp": "2017-06-07T17:05:35+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-LBC",
-				"last": 0.00014642
-			},
-			"change": 1.0230575740637227,
-			"timestamp": "2017-06-07T17:05:35+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-EBST",
-				"last": 0.00005349
-			},
-			"change": 1.027270981371231,
-			"timestamp": "2017-06-07T17:05:35+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-CLOAK",
-				"last": 0.00098543
-			},
-			"change": 1.127262119929534,
-			"timestamp": "2017-06-07T17:05:35+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-BTA",
-				"last": 0.00036124
-			},
-			"change": 1.1025515810035404,
-			"timestamp": "2017-06-07T17:05:35+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-BAY",
-				"last": 0.00001146
-			},
-			"change": 1.0123674911660778,
-			"timestamp": "2017-06-07T17:05:35+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-ZEN",
-				"last": 0.00515888
-			},
-			"change": 1.0142637225661726,
-			"timestamp": "2017-06-07T17:03:34+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-SYS",
-				"last": 0.00007378
-			},
-			"change": 1.014715995048824,
-			"timestamp": "2017-06-07T17:03:34+02:00"
-		},
-		{
-			"market": {
-				"id": "BTC-SLR",
-				"last": 0.00010665
-			},
-			"change": 1.0383604322850746,
-			"timestamp": "2017-06-07T17:03:34+02:00"
-		}
-	]
+	"intruders": []
 }
